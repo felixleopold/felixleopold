@@ -1,4 +1,3 @@
-# felixleopold
 # Greetings from an Old Wizard 🧙‍♂️
 
 Ah, hello there. I’m but a lonely old wizard who’s traded spellbooks for keyboards, and magic wands for code. 
